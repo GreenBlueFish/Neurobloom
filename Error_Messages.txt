@@ -1,0 +1,14 @@
+variable is outside of vector size
+cannot connect nodes in the same layer
+network size is zero
+cost_func assigned to node in final layer does not exist
+number of activation functions and number of derivative activation functions doesn't match
+number of cost functions and number of derivative cost functions doesn't match
+size of cost_functions does not match size of final layer in network
+cost function does not exist
+layer does not exist
+node number in layer does not exist
+vector is smaller than size of final nodes
+output vector size is does not allow for all costs
+cannot make connection between a node and itself
+husk network is not same as current network

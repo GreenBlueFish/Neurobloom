@@ -1,0 +1,2 @@
+Attempting to create new layer in front of network, input vector size may change
+Husk network is nullptr
